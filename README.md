@@ -22,9 +22,6 @@ This repository is home to a collection of key resources that are free to use an
 - **Integrated STREAM Robotics Learning Pathway for K12 Segment**  
   A structured pathway to introduce robotics through the STREAM lens, engaging young minds in both hardware and software creativity.
 
-- **STREAM Framework Sitemap**  
-  Your roadmap for navigating this vibrant collection of resources and understanding how each piece connects within the broader STREAM vision.
-
 ## 📂 Repository Structure
 
 We've organized the repository to make it easy to find what you need:
